@@ -1,0 +1,13 @@
+﻿  CRRPricer.cpp
+  main.cpp
+C:\Users\senau\Documents\Projet C++\proj_mk_rob_val_nat\BinaryTree.h(72,35): warning C4804: '<' : utilisation risquée du type 'bool' dans l'opération
+C:\Users\senau\Documents\Projet C++\proj_mk_rob_val_nat\BinaryTree.h(46,37): message : pendant la compilation de la fonction membre classe modèle 'void BinaryTree<bool>::display(void) const'
+C:\Users\senau\Documents\Projet C++\proj_mk_rob_val_nat\main.cpp(55,19): message : voir la première référence à « BinaryTree<bool>::display » dans « main »
+C:\Users\senau\Documents\Projet C++\proj_mk_rob_val_nat\CRRPricer.h(15,22): message : voir la référence à l'instanciation classe modèle 'BinaryTree<bool>' en cours de compilation
+C:\Users\senau\Documents\Projet C++\proj_mk_rob_val_nat\BinaryTree.h(72,55): warning C4805: '==' : mélange risqué de type 'double' et de type 'std::vector<T,std::allocator<T>>::const_reference' dans l'opération
+          with
+          [
+              T=bool
+          ]
+  Génération de code en cours...
+  proj_mk_rob_val_nat.vcxproj -> C:\Users\senau\Documents\Projet C++\proj_mk_rob_val_nat\x64\Debug\proj_mk_rob_val_nat.exe
